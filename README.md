@@ -13,7 +13,7 @@
 
 | 주요알고리즘     | 진행|  소스코드   |
 | ---- | ---- | ---- |
-|   3.그리디   | 〰 |  [코드]([https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/03.그리디](https://github.com/Jungjuhyeon/ThisIsCodingTest/tree/main/src/_2%EC%9E%A5_%EC%A3%BC%EC%9A%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/_03_%EA%B7%B8%EB%A6%AC%EB%94%94))   |
+|   3.그리디   | 〰 |  [코드]([https://github.com/Youngminah/thisiscodingtest/tree/master/2장.주요알고리즘이론/03.그리디])|
 |  4.구현  | 〰 |        |
 | 5. DFS/BFS| 〰 |        |
 |  6. 정렬  |  〰 |        |
