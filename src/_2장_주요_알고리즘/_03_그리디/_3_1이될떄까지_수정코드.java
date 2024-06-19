@@ -25,6 +25,7 @@ public class _3_1이될떄까지_수정코드 {
 
             count++;
         }
+        count -= N-1;
 
         System.out.println(count);
 
