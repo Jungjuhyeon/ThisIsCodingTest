@@ -16,7 +16,7 @@
 |   3.그리디   | ✔️ |  [코드](https://github.com/Jungjuhyeon/ThisIsCodingTest/tree/main/src/_2%EC%9E%A5_%EC%A3%BC%EC%9A%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/_03_%EA%B7%B8%EB%A6%AC%EB%94%94) |
 |  4.구현  | ✔️ | [코드](https://github.com/Jungjuhyeon/ThisIsCodingTest/tree/main/src/_2장_주요_알고리즘/_04_구현)       |
 | 5. DFS/BFS| ✔️ | [코드](https://github.com/Jungjuhyeon/ThisIsCodingTest/tree/main/src/_2%EC%9E%A5_%EC%A3%BC%EC%9A%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/_05_dfs_bfs)       |
-|  6. 정렬  |  〰 |        |
+|  6. 정렬  | ✔️ | [코드](https://github.com/Jungjuhyeon/ThisIsCodingTest/tree/main/src/_2%EC%9E%A5_%EC%A3%BC%EC%9A%94_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/_06_%EC%A0%95%EB%A0%AC)     |
 | 7.이진탐색 |  〰 |        |
 |  8. 다이나믹 프로그래밍  | 〰  |        |
 |   9. 최단 경로   |  〰 |        |
